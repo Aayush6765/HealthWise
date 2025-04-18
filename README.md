@@ -90,6 +90,8 @@ npm start
 
 Load → Clean → Normalize → Balance → Train → Test → Tune
 
+---
+
 ## 🤝 Contributing
 Contributions are welcome!
 
