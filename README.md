@@ -70,22 +70,34 @@ cd HealthWise
 
 # Backend Setup
 
+```bash
 cd backend
+```
+
 # (Optional) Create a virtual environment
+
+```bash
 python -m venv env
 source env/bin/activate  # or env\Scripts\activate on Windows
+```
 
 # Install dependencies
+```bash
 pip install -r requirements.txt
-
+```
 # Run the backend server
+
+```bash
 python app.py
+```
 
 # Frontend Setup
 
+```bash
 cd ../frontend
 npm install
 npm start
+```
 
 # ML Model Setup
 
