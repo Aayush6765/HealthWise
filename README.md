@@ -65,7 +65,8 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/Aayush-6765/HealthWise.git
-cd HealthWise```bash
+cd HealthWise
+```
 
 # Backend Setup
 
@@ -105,4 +106,5 @@ Push to the branch (git push origin feature/AmazingFeature)
 Open a pull request
 
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
